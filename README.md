@@ -1,3 +1,8 @@
+*CodSoft Artifical Intelligence Intership*
+
+![Uploading image.png…]()
+
+
 **🤖 TASK 1: CHATBOT WITH RULE-BASED RESPONSES**
 
 Embark on the journey of building a simplistic yet effective chatbot, employing the power of rule-based responses. Dive into the realm of natural language processing and conversation dynamics, utilizing if-else statements or pattern matching techniques to decipher user queries and provide tailored responses. This project serves as an invaluable introduction to understanding the fundamentals of NLP and the intricate dance of human-computer interaction.
